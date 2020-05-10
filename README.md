@@ -7,7 +7,7 @@ To change between the two, set multiselect on the MechanismOfInjuryContainer and
 
 To run the app:
 
-### `npm init`
+### `npm i`
 
 To install dependencies
 
