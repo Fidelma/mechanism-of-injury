@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Mechanism of Injury
 
-The app contains two examples of the dropdown button. One multiselect and one single select.
+The app contains two examples of the dropdown button. One single select and one multiselect.
 To change between the two, set multiselect on the MechanismOfInjuryContainer and pass the data for the options to dropdownOptions.
 
 To run the app:
